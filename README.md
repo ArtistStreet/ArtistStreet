@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <!-- <p>Nice try, better next time.</p> -->
   <img width="2048" height="1365" alt="File - 2026-06-21T13_16_36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
 </div>
-<p>Tech stacks: Who tf cares?</p>
+<p>Tech stack: Who tf cares?</p>

@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ArtistStreet/ArtistStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <!-- <p>Nice try, better next time.</p> -->
+  <img width="2048" height="1365" alt="File - 2026-06-21T13_16_36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
+</div>

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <!-- <p>Nice try, better next time.</p> -->
+  <p>𝔑𝔦𝔠𝔢 𝔱𝔯𝔶, 𝔟𝔢𝔱𝔱𝔢𝔯 𝔫𝔢𝔵𝔱 𝔱𝔦𝔪𝔢.</p>
   <img width="2048" height="1365" alt="File - 2026-06-21T13_16_36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
 </div>
-<p>Tech stack: Who tf cares?</p>
+<!-- <p>Tech stack: Who tf cares?</p> -->

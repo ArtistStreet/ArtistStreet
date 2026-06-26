@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p style="margin: 0; line-height: 1.2;">
     𝔗𝔯𝔞𝔦𝔫 𝔦𝔫 𝔱𝔥𝔢 𝔡𝔞𝔯𝔨(𝔫𝔢𝔰𝔰)<br>
-    𝔴𝔦𝔫 𝔦𝔫 𝔱𝔥𝔢 (𝔩𝔦𝔪𝔢)𝔩𝔦𝔤𝔥𝔱
+    𝔚𝔦𝔫 𝔦𝔫 𝔱𝔥𝔢 (𝔩𝔦𝔪𝔢)𝔩𝔦𝔤𝔥𝔱
   </p>
   <img width="2048" height="1365" alt="File - 2026-06-21T13:16:36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
 </div>

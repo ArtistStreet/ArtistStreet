@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <p>𝔑𝔦𝔠𝔢 𝔱𝔯𝔶, 𝔟𝔢𝔱𝔱𝔢𝔯 𝔫𝔢𝔵𝔱 𝔱𝔦𝔪𝔢.</p>
-  <img width="2048" height="1365" alt="File - 2026-06-21T13_16_36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
+  <p style="margin: 0; line-height: 1.2;">
+    𝔗𝔯𝔞𝔦𝔫 𝔦𝔫 𝔱𝔥𝔢 𝔡𝔞𝔯𝔨(𝔫𝔢𝔰𝔰)<br>
+    𝔴𝔦𝔫 𝔦𝔫 𝔱𝔥𝔢 (𝔩𝔦𝔪𝔢)𝔩𝔦𝔤𝔥𝔱
+  </p>
+  <img width="2048" height="1365" alt="File - 2026-06-21T13:16:36" src="https://github.com/user-attachments/assets/236f7dac-37f5-4f6c-a171-6c972175832f" />
 </div>
 <!-- <p>Tech stack: Who tf cares?</p> -->
